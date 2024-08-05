@@ -14,7 +14,7 @@ header h1 {
     color: #333;
 }
 
-/* Estiliza a navegação */
+
 nav {
     background-color: #333;
     color: #fff;
@@ -38,7 +38,7 @@ nav ul#menu li a {
     font-weight: bold;
 }
 
-/* Estiliza as seções */
+
 main {
     padding: 20px;
 }
@@ -52,7 +52,7 @@ h2 {
     color: #444;
 }
 
-/* Estiliza os artigos */
+
 article {
     border: 1px solid #ddd;
     padding: 15px;
@@ -75,10 +75,10 @@ article p {
     line-height: 1.5;
 }
 
-/* Estiliza o rodapé */
+
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #e1faeb;
+    color: #333735;
     text-align: center;
     padding: 10px;
     position: fixed;
